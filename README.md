@@ -33,5 +33,25 @@ Deployment: Deploy the model in a clinical setting or as a mobile/web applicatio
 
 For this prediction I Deployed a Public Machine Learning Web App using Streamlit in Python
 
+
+# System Requirement: 
+** 
+Python
+Pandas 
+Numpy
+Seaborn
+Sklearn
+
+
+# Developer Tools: 
+**
+Programming Language: Python
+IDE: Anaconda navigator(Spyder)
+Web Scraping: Web App using Streamlit 
+Debugging & testing: Google Colab 
+Data Format: Microsoft Excel 
+
+
+
 # Conclusion: 
 Overall, building a diabetes prediction model using machine learning can be a complex process that requires domain expertise and careful data preprocessing, modeling, and evaluation. However, such models can have significant clinical and public health impact by enabling early detection and prevention of diabetes.
